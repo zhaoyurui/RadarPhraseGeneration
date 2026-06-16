@@ -2,6 +2,7 @@
 
 This repository contains a **simulated dataset for radar phrase extraction** from intercepted Multi-Function Radar (MFR) pulse streams. Three distinct MFR emitters — ground-based, shipborne, and airborne — are modeled using the **syntactic modeling framework** [1, 2], where radar commands are expressed as *phrases* composed of sequences of atomic *words* (waveforms). The task is to recover phrase boundaries from continuous word-level observation sequences.
 
+For paper "Radar Phrase Extraction via Structure Informed Conditional Random Fields" in  IEEE Transactions on Aerospace and Electronic Systems (Under Review)
 ---
 
 ## 1. Background: MFR Hierarchical Architecture
